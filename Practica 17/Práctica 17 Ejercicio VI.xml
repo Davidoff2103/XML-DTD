@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE listacursos SYSTEM "Practica17.dtd">
+<listacursos>
+    <curso>
+        <alumno>
+            <dni>49258750H</dni>
+            <nombre>Rui</nombre>
+            <apellido1>Silva</apellido1>
+            <listaasignaturas>
+                <asignatura codigo="LM01">
+                    <nombre>Lenguaje de marcas</nombre>
+                    <profesor>
+                        <nrp>7</nrp>
+                        <nombre>Rubén</nombre>
+                        <apellido1>Juárez</apellido1>
+                    </profesor>
+                </asignatura>
+            </listaasignaturas>
+        </alumno>
+        <alumno>
+            <dni>42342852J</dni>
+            <nombre>Luis</nombre>
+            <apellido1>Milla</apellido1>
+            <apellido2>Manzanares</apellido2>
+            <listaasignaturas>
+                <asignatura codigo="PR01">
+                    <nombre>Programación</nombre>
+                    <profesor>
+                        <nrp>14</nrp>
+                        <nombre>Nelson</nombre>
+                        <apellido1>Pérez</apellido1>
+                        <apellido2>Varona</apellido2>
+                    </profesor>
+                </asignatura>
+            </listaasignaturas>
+        </alumno>
+    </curso>
+    <curso>
+        <alumno>
+            <dni>42395487R</dni>
+            <nombre>Alberto</nombre>
+            <apellido1>Soro</apellido1>
+            <apellido2>Álvarez</apellido2>
+            <listaasignaturas>
+                <asignatura codigo="BD01">
+                    <nombre>Bases de datos</nombre>
+                    <profesor>
+                        <nrp>20</nrp>
+                        <nombre>Rosa</nombre>
+                        <apellido1>Surís</apellido1>
+                        <apellido2>Pavón</apellido2>
+                    </profesor>
+                </asignatura>
+            </listaasignaturas>
+        </alumno>
+    </curso>
+</listacursos>

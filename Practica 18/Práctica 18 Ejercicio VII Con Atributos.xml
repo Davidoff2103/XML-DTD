@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE listafacturas SYSTEM "Practica18.dtd">
+<listafacturas>
+  <factura fecha="21-02-2021">
+        <emisor cif="Q12308742">
+            <nombre>TFN</nombre>
+            <volumenventas>1500</volumenventas>
+        </emisor>
+        <pagador cif="H24359732">
+            <nombre>PAP</nombre>
+            <volumenventas>1600</volumenventas>
+        </pagador>
+        <importe>3000</importe>
+  </factura>
+  <factura>
+        <emisor cif="Q12308742">
+            <nombre>TBT</nombre>
+        </emisor>
+        <pagador cif="H24359732">
+            <nombre>CSA</nombre>
+        </pagador>
+        <importe>2750</importe>
+  </factura>
+</listafacturas>

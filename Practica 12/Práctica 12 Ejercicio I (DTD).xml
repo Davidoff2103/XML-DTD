@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE listaventas SYSTEM "Practica12.dtd">
+<listaventas>
+  <venta>
+        <importe>950</importe>
+        <comprador>David Blanco</comprador>
+        <vendedor>PC Componentes</vendedor>
+        <codigofactura>A007</codigofactura>
+  </venta>
+  <venta>
+        <importe>500</importe>
+        <comprador>Sergi Pifarré</comprador>
+        <vendedor>MediaMarkt</vendedor>
+        <fecha>19-02-2021</fecha>
+        <codigofactura>A008</codigofactura>
+  </venta>
+</listaventas>

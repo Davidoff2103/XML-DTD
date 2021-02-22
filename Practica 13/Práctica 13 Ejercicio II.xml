@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE listapedidos SYSTEM "Practica13.dtd">
+<listapedidos>
+        <pedido>
+                <numeroserie>23332244</numeroserie>
+                <cantidad>5</cantidad>
+        </pedido>
+        <pedido>
+                <numeroserie>24569203</numeroserie>
+                <cantidad>10</cantidad>
+                <peso>200g</peso>
+        </pedido>
+</listapedidos>

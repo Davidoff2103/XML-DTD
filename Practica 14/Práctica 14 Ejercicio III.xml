@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE productos SYSTEM "Practica14.dtd">
+<productos>
+    <producto>
+        <raton>
+            <codigo>A123</codigo>
+        </raton>
+    </producto>
+    <producto>
+        <teclado>
+            <codigo>B321</codigo>
+            <nombre>SilverHT</nombre>
+            <descripcion>Teclado Bluetooth Aluminio Universal Negro</descripcion>
+        </teclado>
+    </producto>
+    <producto>
+        <monitor>
+            <codigo>C458</codigo>
+            <nombre>Samsung LS32AM700UUXEN</nombre>
+        </monitor>
+    </producto>
+</productos>
